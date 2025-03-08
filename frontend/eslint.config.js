@@ -28,6 +28,8 @@ export default [
         'warn',
         { allowConstantExport: true },
       ],
+      // Itha add cheyyuka
+      'react/react-in-jsx-scope': 'off', // React import avashyamilla ennu parayan
     },
   },
 ]
