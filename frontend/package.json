@@ -26,13 +26,14 @@
     "@types/react-dom": "^19.0.4",
     "@vitejs/plugin-react": "^4.3.4",
     "autoprefixer": "^10.4.21",
-    "daisyui": "^5.0.38",
+    "daisyui": "^4.12.23",
     "eslint": "^9.21.0",
     "eslint-plugin-react-hooks": "^5.1.0",
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^15.15.0",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^4.1.7",
+    "postcss": "^8.5.6",
+    "postcss-nesting": "^13.0.2",
+    "tailwindcss": "^3.3.5",
     "vite": "^6.2.0"
   }
 }
